@@ -1,7 +1,7 @@
 package `03WhenExpression`
 
 fun main() {
-    val value = 7
+    val value = readln().toInt()
     val stringValue = when (value) {
         6 -> "value is 6"
         7 -> "value is 7"

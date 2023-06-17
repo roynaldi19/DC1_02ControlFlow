@@ -1,7 +1,7 @@
 package `05Range`
 
 fun main() {
-    val rangeInt1 = 1..10 step 2
+    val rangeInt1 = 1..10
     rangeInt1.forEach {
         println("$it")
     }
