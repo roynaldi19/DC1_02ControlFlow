@@ -1,4 +1,4 @@
-package `07BreakContinue`
+package `06BreakContinue`
 
 fun main() {
     loop@ for (i in 1..10) {

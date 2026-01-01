@@ -1,7 +1,7 @@
-package `04WhileDoWhile`
+package `03WhileDoWhile`
 
 fun main() {
-    val value = 'A'
+    val value = '.'
     do {
         print(value)
     } while (value <= 'B')

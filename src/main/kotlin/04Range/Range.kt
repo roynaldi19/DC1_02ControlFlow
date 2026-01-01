@@ -1,4 +1,4 @@
-package `05Range`
+package `04Range`
 
 fun main() {
     val rangeInt1 = 1..10

@@ -1,4 +1,4 @@
-package `04WhileDoWhile`
+package `03WhileDoWhile`
 
 fun main() {
     var counter = 1

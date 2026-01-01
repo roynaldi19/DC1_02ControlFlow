@@ -1,4 +1,4 @@
-package `03WhenExpression`
+package `02WhenExpression`
 
 fun main() {
     val value = readln().toInt()

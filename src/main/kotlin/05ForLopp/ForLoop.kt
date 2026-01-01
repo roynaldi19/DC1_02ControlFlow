@@ -1,4 +1,4 @@
-package `06ForLopp`
+package `05ForLopp`
 
 fun main() {
     val ranges = 1..10 step 2
